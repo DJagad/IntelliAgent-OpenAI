@@ -1,0 +1,16 @@
+langchain
+langchain_openai
+tavily-python
+python-dotenv
+jupyter
+ipykernel
+langchain_community
+langchainhub
+langgraph
+langchain_core
+typing
+streamlit 
+transformers
+futures
+tensorflow
+tf-keras
